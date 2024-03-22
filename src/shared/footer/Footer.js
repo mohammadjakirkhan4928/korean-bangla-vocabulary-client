@@ -8,15 +8,15 @@ const Footer = () => {
     <div>
       <div className="avatar">
         <div className="w-16 rounded-full ring ring-blue-700 ring-offset-base-100 ring-offset-2">
-          <img src="https://i.ibb.co/Prf8KR2/kb.png" alt="jakir" />
+          <img src="https://i.ibb.co/0VvQDMz/FB-IMG-1662878529529.jpg" alt="jakir" />
         </div>
       </div>
       <div>
         <h3 className="text-xl text-white mt-2">
           Copyright © 2023 - All right reserved by{" "}
-          <Link to='/admindashboard' className=" text-blue-700  font-bold">Admin</Link >
+          <Link to='/adminlogin' className=" text-blue-700  font-bold">Admin</Link >
         </h3>
-        <p className="text-base-300 mt-3">
+        <p className="text-white mt-3">
           I am passionate about developing affordable and accessible software
           for the world of intent, and am dedicated to making a positive
           impact in this exciting and rapidly-evolving field. Visit my{" "}
